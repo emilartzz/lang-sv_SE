@@ -25,12 +25,12 @@
 
 
 ; Note: December 29, 2024 - 9 missing translations
-Enable Outgoing Proxy=
-Name=
-Optional=
-Outgoing Proxy=
-Password=
-Please match the requested format=
-Required=
-Select Proxy=
-User=
+Enable Outgoing Proxy=Aktivera utgående proxy
+Name=Namn
+Optional=Valfri
+Outgoing Proxy=Utgående proxy
+Password=Lösenord
+Please match the requested format=Vänligen följ det begärda formatet
+Required=Obligatorisk
+Select Proxy=Välj proxy
+User=Användare
